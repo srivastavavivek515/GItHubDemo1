@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.d("company _one","This is the second  commit")
+        Log.d("company _one","merging again ...This is the first  commit")
     }
 }
