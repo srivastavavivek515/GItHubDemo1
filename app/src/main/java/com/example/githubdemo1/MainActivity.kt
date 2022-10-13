@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("master","this is first line to commit")
 
-        Log.d("company _one","This is the second  commit")
+        Log.d("company _one","merging again ...This is the first  commit")
     }
 }
