@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("master","this is first line to commit")
+
+        Log.d("company _one","This is the second  commit")
     }
 }
